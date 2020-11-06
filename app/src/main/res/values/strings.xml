@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContactList_Demo</string>
+    <string name="voice_call">Voice call On</string>
+    <string name="search">Search</string>
+</resources>
